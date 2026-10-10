@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.glb binary
+*.ktx2 binary
+*.png binary
+*.jpg binary
+*.wasm binary
+*.m4a binary
+*.wav binary
+*.fbx binary
+*.blend binary
