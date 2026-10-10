@@ -1,6 +1,11 @@
 # フェーズ1 実装計画：30秒のゴールシーン
 
-状態：**確認待ち**（承認をもらってから実装に入る）
+状態：**承認済み・実装中**（2026-10-11）
+
+決まったこと：
+- 実機確認は GitHub Pages（公開リポジトリ `princetottino10-bit/wccfreboot`、main のルートから配信）→ https://princetottino10-bit.github.io/wccfreboot/
+- FBX → glb の変換は手元の Blender 4.5 LTS をスクリプトで使う
+- 公開リポジトリなので、Mixamo 素材を入れる段階で配布形態を確認し直す
 
 ## 1. 方針の要点
 
